@@ -1,6 +1,6 @@
 import React from "react";
 import { useSelector, useDispatch } from "react-redux";
-import TaskList from "../components/TaskList";
+import TaskList from "../Components/TaskList";
 import { deleteTask } from "../Redux/taskSlice";
 
 const HomePage = () => {

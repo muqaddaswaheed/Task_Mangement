@@ -1,7 +1,7 @@
 import React from "react";
 import { useDispatch } from "react-redux";
 import { addTask } from "../Redux/taskSlice";
-import TaskForm from "../components/TaskForm";
+import TaskForm from "../Components/TaskForm";
 
  
  const AddTask = () => {
